@@ -38,3 +38,38 @@
 ## Movie content
 
 - [ ]  File
+
+<br>
+
+## Option sets
+
+## Content type
+
+- [ ]  Movie
+- [ ]  TV Show
+
+## Genre
+
+- [ ]  Comedy
+- [ ]  Action
+- [ ]  Family
+- [ ]  Drama
+- [ ]  Thriller
+
+## Rating
+
+- [ ]  G
+- [ ]  PG
+- [ ]  M
+- [ ]  MA
+- [ ]  R
+
+## Profile type
+
+- [ ]  User
+- [ ]  Admin
+
+<br>
+
+## References:
+- [Database and Features of application](https://harikiranvusirikala.notion.site/Netflix-clone-build-430449efbfc34f1eabe20417a75a45a1)
