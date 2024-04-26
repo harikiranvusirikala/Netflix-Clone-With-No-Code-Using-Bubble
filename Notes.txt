@@ -1,1 +1,6 @@
 
+Checklist (sharing) - https://harikiranvusirikala.notion.site/Netflix-clone-build-430449efbfc34f1eabe20417a75a45a1
+
+Database(as Data in the left nav bar):
+Data Types -> Data Field name(recommended to have - instead of space in between), Data Field type
+Option Sets -> Data Field name, Constant values (like Enum)
