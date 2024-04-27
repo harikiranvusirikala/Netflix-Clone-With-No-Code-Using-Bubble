@@ -23,3 +23,15 @@ Design the Subscription on the same registration page and hide the first email r
 • Collapse when hidden
 • Animate the collapse operation - Fade In/Out
 
+Create a stripe.com account and it's a plugin to process payment.
+Update Client ID(from Settings -> Connect -> Onboarding options -> OAuth), Secret Key, and Publishable Key for both live and development.
+
+Create a product in the Product catalog for a monthly subscription plan.
+
+Recommended updating workflows on the same page with one colour.
+
+Stripe dummy credit cards for testing - https://docs.stripe.com/testing?testing-method=card-numbers#cards
+
+Error:
+As per Indian regulations, export transactions require a customer name and address. More info here: https://stripe.com/docs/india-exports
+
