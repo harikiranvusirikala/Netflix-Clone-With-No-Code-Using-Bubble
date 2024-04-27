@@ -17,3 +17,9 @@ Style(in the left nav bar) is a set of CSS for a button/input/etc which we use a
 Workflow(in the left nav bar) is the actions to be performed on clicking buttons etc.
 
 Register in preview. And can see user registration in Database -> App data -> All Users
+
+Design the Subscription on the same registration page and hide the first email registration container with a workflow.
+• This element is visible on page load - only for email registration container
+• Collapse when hidden
+• Animate the collapse operation - Fade In/Out
+
