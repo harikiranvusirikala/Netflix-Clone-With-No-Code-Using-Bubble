@@ -51,3 +51,11 @@ Adding a Hero-content:
 
 Use Repeating Groups - to display dynamic lists of things from the database
 
+===
+Designing the Admin page
+
+Admin page design is an assumption as we don't know how it looks.
+
+For every Group update Min height to 0 after the Group is completely designed to remove unnecessary spaces.
+Remove the background colour of groups when making the application live.
+
