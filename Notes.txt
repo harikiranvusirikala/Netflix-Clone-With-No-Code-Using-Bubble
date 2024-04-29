@@ -59,3 +59,16 @@ Admin page design is an assumption as we don't know how it looks.
 For every Group update Min height to 0 after the Group is completely designed to remove unnecessary spaces.
 Remove the background colour of groups when making the application live.
 
+===
+Designing the Create page to upload a movie.
+
+No need for navigation for both the Admin & Create pages.
+
+Use the "Multiselect Dropdown" plugin to have an input field that allows you to select more than one.
+
+xano.com and plugin Ziggeo are more ways to save the videos that we can stream.
+
+Custom state(select the page -> i -> Custom state) is where data is saved on the page, so can be accessible via another group.
+
+Add alert on successful upload.
+
